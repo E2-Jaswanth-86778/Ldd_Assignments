@@ -1,0 +1,1 @@
+savedcmd_/home/adminasd/SUNBEAM_DESD/LDD/LDD_Assignment/Gokhale_sir/Hello_module/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/adminasd/SUNBEAM_DESD/LDD/LDD_Assignment/Gokhale_sir/Hello_module/Module.symvers -T /home/adminasd/SUNBEAM_DESD/LDD/LDD_Assignment/Gokhale_sir/Hello_module/modules.order -i Module.symvers -e 
