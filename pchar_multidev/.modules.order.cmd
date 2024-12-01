@@ -1,0 +1,1 @@
+savedcmd_/home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/modules.order := {   echo /home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/pchar_multidev.o; :; } > /home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/modules.order

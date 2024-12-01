@@ -1,0 +1,1 @@
+savedcmd_/home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/pchar_multidev.mod := printf '%s\n'   pchar_multidev.o | awk '!x[$$0]++ { print("/home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/"$$0) }' > /home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/pchar_multidev.mod

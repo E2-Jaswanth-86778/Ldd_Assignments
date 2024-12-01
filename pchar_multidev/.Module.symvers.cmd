@@ -1,0 +1,1 @@
+savedcmd_/home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/Module.symvers -T /home/adminasd/SUNBEAM_DESD/LDD/pchar_multidev/modules.order -i Module.symvers -e 

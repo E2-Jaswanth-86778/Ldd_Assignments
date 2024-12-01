@@ -1,0 +1,1 @@
+savedcmd_/home/adminasd/SUNBEAM_DESD/LDD/LDD_Assignment/LDD_Assignments/06_pchar_ioctl_resize/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/adminasd/SUNBEAM_DESD/LDD/LDD_Assignment/LDD_Assignments/06_pchar_ioctl_resize/Module.symvers -T /home/adminasd/SUNBEAM_DESD/LDD/LDD_Assignment/LDD_Assignments/06_pchar_ioctl_resize/modules.order -i Module.symvers -e 

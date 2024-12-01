@@ -1,0 +1,1 @@
+savedcmd_/home/jaswanth/sunbeam/Assignments/Ldd_Assignments/ioctl/ioctl_multi.mod := printf '%s\n'   ioctl_multi.o | awk '!x[$$0]++ { print("/home/jaswanth/sunbeam/Assignments/Ldd_Assignments/ioctl/"$$0) }' > /home/jaswanth/sunbeam/Assignments/Ldd_Assignments/ioctl/ioctl_multi.mod
